@@ -25,7 +25,6 @@
     "hasIndirectMessages": false,
     "webviewOptions": {
       "disablewebsecurity": ""
-    },
-    "openDevTools": true
+    }
   }
 }
