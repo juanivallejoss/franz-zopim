@@ -1,0 +1,31 @@
+{
+  "id": "zopim",
+  "name": "zopim",
+  "version": "1.0.0",
+  "description": "Zopim integration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roilan/franz-zopim.git"
+  },
+  "author": "Roilan Salinas <roilan14@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Roilan/franz-zopim/issues"
+  },
+  "homepage": "https://github.com/Roilan/franz-zopim#readme",
+  "config": {
+    "serviceURL": "https://dashboard.zopim.com/",
+    "serviceName": "Zopim",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "hasIndirectMessages": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
